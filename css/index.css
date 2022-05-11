@@ -1,0 +1,18 @@
+.aside{
+  width: 150px;
+  height: 400px;
+  background: red;
+  float: right;
+}
+.menu{
+  width: 150px;
+  height: 400px;
+  background: red;
+  float: left;
+}
+.main{
+  margin-right: 160px;
+  margin-left: 160px;
+  background: blue;
+  height: 500px;
+}
